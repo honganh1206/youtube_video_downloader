@@ -2,7 +2,7 @@
 from pytube import YouTube
 import sys
 import time
-from class_disk import Disk
+from disk import Disk
 
 def save_path():
 
