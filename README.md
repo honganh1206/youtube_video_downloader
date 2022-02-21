@@ -1,7 +1,7 @@
 # ▶️▶️▶️ A YouTube Video Downloader ▶️▶️▶️
-Here is my final project for Code In Place 2021 :)
+Here is my final project for Code In Place 2021 
 
-I wrote a small program to download Youtube videos. Simply paste your URLs and go through certain options
+I wrote a small script to download Youtube videos. Simply paste your URLs and go through certain options
 
 There are some limitations:
 ####  📩 Due to each video having different codecs, this program can only download either 720p videos with sound or 1080p videos without sound.
