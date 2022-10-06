@@ -1,5 +1,5 @@
 # ▶️▶️▶️ A YouTube Video Downloader ▶️▶️▶️
-Here is my final project for Code In Place 2021 
+Here is my final project for Code In Place 2021, you can see it on [here](https://codeinplace.stanford.edu/2021/showcase/174) as well.
 
 I wrote a small script to download Youtube videos. Simply paste your URLs and go through certain options
 
